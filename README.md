@@ -1,7 +1,6 @@
 # ABSA Subatomic Developer Documentation
 
 [![Build Status](https://travis-ci.org/absa-subatomic/subatomic-developer-docs.svg?branch=master)](https://travis-ci.org/absa-subatomic/subatomic-developer-docs)
-[![Requirements Status](https://requires.io/github/absa-subatomic/subatomic-developer-docs/requirements.svg?branch=gh-pages)](https://requires.io/github/absa-subatomic/subatomic-developer-docs/requirements/?branch=gh-pages)
 
 Go to the [ABSA Subatomic Developer Documentation][live] 
 
