@@ -1,0 +1,28 @@
+site_name: Subatomic Developer Docs
+site_author: The Subatomic Team
+site_description: Subatomic
+copyright: '++ &copy; 2019 Subatomic Team ++'
+
+# Configuration
+theme:
+  name: material
+  logo: 'images/subatomic-white-grey_50.png'
+  palette:
+    primary: 'red'
+    accent: 'red'
+
+docs_dir: docs
+google_analytics:
+  - UA-107338053-1
+  - auto
+repo_name: absa-subatomic
+repo_url: https://github.com/absa-subatomic/subatomic-documentation
+extra:
+  palette:
+    primary: blue-grey
+    accent: blue-grey
+  social:
+    - type: github
+      link: https://github.com/absa-subatomic
+nav:
+- Home: index.md
